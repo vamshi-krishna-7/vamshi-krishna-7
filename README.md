@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://bvamshi123.ccbp.tech/](https://bvamshi123.ccbp.tech/)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, SQLite, NodeJS, Express**
 
 - 📫 How to reach me **besthavamshikrishna@gmail.com**
